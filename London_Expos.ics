@@ -3,5 +3,214 @@ VERSION:2.0
 PRODID:-//ExpoApp//London Expos//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:London Expos (Next 3 Months)
+BEGIN:VEVENT
+UID:de81538a-d46b-4fac-b05f-68287c7170b8@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251007T090000+0100
+DTEND:20251008T170000+0100
+SUMMARY:HETT Show (Healthcare Excellence Through Technology)
+LOCATION:ExCeL London
+DESCRIPTION:HETT Show (Healthcare Excellence Through Technology) — https://www.hettshow.co.uk/
+URL:https://www.hettshow.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:f4fc0067-f61d-4249-a994-844889ea7322@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251007T090000+0100
+DTEND:20251008T170000+0100
+SUMMARY:Sustainable Trade & Production Expo
+LOCATION:ExCeL London
+DESCRIPTION:Sustainable Trade & Production Expo — https://www.excel.london/whats-on/the-sustainable-trade-production-expo
+URL:https://www.excel.london/whats-on/the-sustainable-trade-production-expo
+END:VEVENT
+BEGIN:VEVENT
+UID:047a1558-0b34-48b4-b867-b5a16ae6f9cf@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251023T090000+0100
+DTEND:20251023T170000+0100
+SUMMARY:Cyber Security EXPO — London
+LOCATION:QEII Centre
+DESCRIPTION:Cyber Security EXPO — London — https://www.cybersecurityexpo.co.uk/london
+URL:https://www.cybersecurityexpo.co.uk/london
+END:VEVENT
+BEGIN:VEVENT
+UID:26e3d53e-db69-4eb8-92a5-4da2eb23d0ea@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251103T090000+0000
+DTEND:20251105T170000+0000
+SUMMARY:Air & Missile Defence Technology (Conference)
+LOCATION:Hilton London Kensington
+DESCRIPTION:Air & Missile Defence Technology (Conference) — https://www.defence-industries.com/events
+URL:https://www.defence-industries.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:dc23c339-2fa7-4f9f-bc97-c29a921bd6e6@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251119T090000+0000
+DTEND:20251120T170000+0000
+SUMMARY:EMEX — Energy Management & Smart Buildings
+LOCATION:ExCeL London
+DESCRIPTION:EMEX — Energy Management & Smart Buildings — https://www.emexlondon.com/
+URL:https://www.emexlondon.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:a25cf579-2ee7-42b0-aca8-6a766af4d323@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251202T093000+0000
+DTEND:20251203T173000+0000
+SUMMARY:FinTech Connect
+LOCATION:ExCeL London
+DESCRIPTION:FinTech Connect — https://www.fintechconnect.com/
+URL:https://www.fintechconnect.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:f6ff7f65-c73f-4831-ab1c-fe565db09e29@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251208T090000+0000
+DTEND:20251211T180000+0000
+SUMMARY:Black Hat Europe
+LOCATION:ExCeL London
+DESCRIPTION:Black Hat Europe — https://www.blackhat.com/eu-25/
+URL:https://www.blackhat.com/eu-25/
+END:VEVENT
+BEGIN:VEVENT
+UID:9297e32f-3283-4086-8168-3a0de09d72f8@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251003T090000+0100
+DTEND:20251004T170000+0100
+SUMMARY:Dentistry Show London
+LOCATION:ExCeL London
+DESCRIPTION:Dentistry Show London — https://london.dentistryshow.co.uk/
+URL:https://london.dentistryshow.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:62bd7b84-6b7b-4726-b578-309cb47036c2@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251018T100000+0100
+DTEND:20251020T150000+0100
+SUMMARY:New Scientist Live
+LOCATION:ExCeL London
+DESCRIPTION:New Scientist Live — https://live.newscientist.com/
+URL:https://live.newscientist.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:0eb2630f-ea03-45aa-95c1-00996e00f1ce@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251120T090000+0000
+DTEND:20251121T170000+0000
+SUMMARY:London Vet Show
+LOCATION:ExCeL London
+DESCRIPTION:London Vet Show — https://london.vetshow.com/
+URL:https://london.vetshow.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:b1651f6c-dfee-487f-ad5f-de9f5f12d0a5@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251119T093000+0000
+DTEND:20251120T170000+0000
+SUMMARY:London Build Expo (Construction & Engineering)
+LOCATION:Olympia London
+DESCRIPTION:London Build Expo (Construction & Engineering) — https://www.londonbuildexpo.com/
+URL:https://www.londonbuildexpo.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:0061520c-1de4-4b28-84f9-f1861e08a4af@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251010T084500+0100
+DTEND:20251010T173000+0100
+SUMMARY:ICE: Enabling Better Infrastructure (International Conference)
+LOCATION:Institution of Civil Engineers\, One Great George Street
+DESCRIPTION:ICE: Enabling Better Infrastructure (International Conference) — https://www.ice.org.uk/events/upcoming-events/enabling-better-infrastructure-international-conference
+URL:https://www.ice.org.uk/events/upcoming-events/enabling-better-infrastructure-international-conference
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6b4daa-435b-4f48-b6cc-89e083aeb0a8@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251015T090000+0100
+DTEND:20251016T170000+0100
+SUMMARY:Smart Buildings Show
+LOCATION:ExCeL London
+DESCRIPTION:Smart Buildings Show — https://smartbuildingsshow.com/
+URL:https://smartbuildingsshow.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:8b96091c-64a6-42dc-ae5c-489c539bbb70@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251008T090000+0100
+DTEND:20251010T170000+0100
+SUMMARY:Forrester Technology & Innovation Summit EMEA
+LOCATION:InterContinental London – The O2 (Hybrid)
+DESCRIPTION:Forrester Technology & Innovation Summit EMEA — https://www.forrester.com/event/technology-innovation-emea/
+URL:https://www.forrester.com/event/technology-innovation-emea/
+END:VEVENT
+BEGIN:VEVENT
+UID:a45df48b-a280-4ff2-93b0-048ed6c1c00c@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251016T090000+0100
+DTEND:20251016T160000+0100
+SUMMARY:East London Business Summit (Meet the Buyer)
+LOCATION:ExCeL London
+DESCRIPTION:East London Business Summit (Meet the Buyer) — https://www.eastlondonbusinesssummit.co.uk/
+URL:https://www.eastlondonbusinesssummit.co.uk/
+END:VEVENT
+BEGIN:VEVENT
+UID:50fab386-a6e1-42fb-a693-abde28f2b95c@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251014T090000+0100
+DTEND:20251016T170000+0100
+SUMMARY:MRO Europe (Aviation Week) — Conference & Exhibition
+LOCATION:ExCeL London
+DESCRIPTION:MRO Europe (Aviation Week) — Conference & Exhibition — https://mroeurope.aviationweek.com/en/home.html
+URL:https://mroeurope.aviationweek.com/en/home.html
+END:VEVENT
+BEGIN:VEVENT
+UID:3a1fc17a-0c7b-484e-a106-411e669af86d@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251030T090000+0000
+DTEND:20251030T173000+0000
+SUMMARY:FuturePMO — 1-day PMO Conference
+LOCATION:Novotel London West\, Hammersmith
+DESCRIPTION:FuturePMO — 1-day PMO Conference — https://www.futurepmo.com/
+URL:https://www.futurepmo.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:f23d5248-274d-4a47-b67a-da2f42a2be15@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251107T090000+0000
+DTEND:20251107T173000+0000
+SUMMARY:PMI UK Synergy (International Project Management Day)
+LOCATION:The Light\, Friends House\, Euston Road\, London
+DESCRIPTION:PMI UK Synergy (International Project Management Day) — https://www.pmi.org/events/london-synergy
+URL:https://www.pmi.org/events/london-synergy
+END:VEVENT
+BEGIN:VEVENT
+UID:30f3b5a8-8fd3-482d-9f1a-e6d4bb13a247@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251022T090000+0100
+DTEND:20251022T170000+0100
+SUMMARY:techUK — Tech & Net Zero Conference
+LOCATION:Central London (techUK)
+DESCRIPTION:techUK — Tech & Net Zero Conference — https://www.techuk.org/what-we-deliver/events.html?location=Central+London
+URL:https://www.techuk.org/what-we-deliver/events.html?location=Central+London
+END:VEVENT
+BEGIN:VEVENT
+UID:509c075f-0655-4341-b0a8-c134fc079d06@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251105T090000+0000
+DTEND:20251105T170000+0000
+SUMMARY:techUK — Health & Care Summit
+LOCATION:London (techUK)
+DESCRIPTION:techUK — Health & Care Summit — https://www.techuk.org/what-we-deliver/events.html
+URL:https://www.techuk.org/what-we-deliver/events.html
+END:VEVENT
+BEGIN:VEVENT
+UID:1deed3e7-58cb-4f03-a5ec-8a22052f6e83@expoapp
+DTSTAMP:20251002T140132Z
+DTSTART:20251113T090000+0000
+DTEND:20251113T170000+0000
+SUMMARY:techUK — Tech & Innovation Summit
+LOCATION:Central London (techUK)
+DESCRIPTION:techUK — Tech & Innovation Summit — https://www.techuk.org/what-we-deliver/events.html?location=Central+London
+URL:https://www.techuk.org/what-we-deliver/events.html?location=Central+London
+END:VEVENT
 END:VCALENDAR
