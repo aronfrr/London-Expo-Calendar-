@@ -1,12 +1,12 @@
 name: Refresh calendar (3-month window)
-
-permissions:
-  contents: write
   
 on:
   schedule:
     - cron: "0 7 * * 1"   # 08:00 Europe/London ≈ 07:00 UTC outside BST
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   refresh:
