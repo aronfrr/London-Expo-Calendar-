@@ -3,211 +3,212 @@ VERSION:2.0
 PRODID:-//ExpoApp//London Expos//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:London Expos (Next 3 Months)
 BEGIN:VEVENT
-UID:768a0671-0df0-435a-979d-19bd30953d22@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251007T090000+0100
-DTEND:20251008T170000+0100
+UID:f3eff155-33ba-4ff7-9d37-2727285234c4@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251007T080000Z
+DTEND:20251008T160000Z
 SUMMARY:HETT Show (Healthcare Excellence Through Technology)
 LOCATION:ExCeL London
 DESCRIPTION:HETT Show (Healthcare Excellence Through Technology) — https://www.hettshow.co.uk/
 URL:https://www.hettshow.co.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:616f2fb2-8112-40aa-879a-18172fa7ca7d@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251007T090000+0100
-DTEND:20251008T170000+0100
+UID:56a2d94e-46d3-42ca-8ab8-aad6c28b3f11@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251007T080000Z
+DTEND:20251008T160000Z
 SUMMARY:Sustainable Trade & Production Expo
 LOCATION:ExCeL London
 DESCRIPTION:Sustainable Trade & Production Expo — https://www.excel.london/whats-on/the-sustainable-trade-production-expo
 URL:https://www.excel.london/whats-on/the-sustainable-trade-production-expo
 END:VEVENT
 BEGIN:VEVENT
-UID:11a75587-7988-4195-9dd6-85794e1517b5@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251023T090000+0100
-DTEND:20251023T170000+0100
+UID:644c530c-a735-4b32-a100-7386fed91e62@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251023T080000Z
+DTEND:20251023T160000Z
 SUMMARY:Cyber Security EXPO — London
 LOCATION:QEII Centre
 DESCRIPTION:Cyber Security EXPO — London — https://www.cybersecurityexpo.co.uk/london
 URL:https://www.cybersecurityexpo.co.uk/london
 END:VEVENT
 BEGIN:VEVENT
-UID:114ddce2-c48b-4132-8945-5718c277faa4@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251103T090000+0000
-DTEND:20251105T170000+0000
+UID:54981f76-a5fc-4f4e-8669-f65d8cf90d7a@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251103T090000Z
+DTEND:20251105T170000Z
 SUMMARY:Air & Missile Defence Technology (Conference)
 LOCATION:Hilton London Kensington
 DESCRIPTION:Air & Missile Defence Technology (Conference) — https://www.defence-industries.com/events
 URL:https://www.defence-industries.com/events
 END:VEVENT
 BEGIN:VEVENT
-UID:7db31154-9a09-4ab6-8d14-7851323e1ed1@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251119T090000+0000
-DTEND:20251120T170000+0000
+UID:e21c3e15-fb9f-4137-b265-9ddc80da5489@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251119T090000Z
+DTEND:20251120T170000Z
 SUMMARY:EMEX — Energy Management & Smart Buildings
 LOCATION:ExCeL London
 DESCRIPTION:EMEX — Energy Management & Smart Buildings — https://www.emexlondon.com/
 URL:https://www.emexlondon.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:ec7a8bac-2f47-448e-bdc7-c4a42b545485@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251202T093000+0000
-DTEND:20251203T173000+0000
+UID:70a03437-7fe4-41df-b207-354c72092d83@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251202T093000Z
+DTEND:20251203T173000Z
 SUMMARY:FinTech Connect
 LOCATION:ExCeL London
 DESCRIPTION:FinTech Connect — https://www.fintechconnect.com/
 URL:https://www.fintechconnect.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:e81d3cfe-8a50-4134-8ab8-f46b1046c5d4@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251208T090000+0000
-DTEND:20251211T180000+0000
+UID:78a65d8b-a2a3-4acb-ae75-b53de2867fb3@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251208T090000Z
+DTEND:20251211T180000Z
 SUMMARY:Black Hat Europe
 LOCATION:ExCeL London
 DESCRIPTION:Black Hat Europe — https://www.blackhat.com/eu-25/
 URL:https://www.blackhat.com/eu-25/
 END:VEVENT
 BEGIN:VEVENT
-UID:0cf64694-941c-4077-bb49-4b66adb88c8c@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251003T090000+0100
-DTEND:20251004T170000+0100
+UID:fb8c092b-a5ab-4715-a9ff-d516463889a6@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251003T080000Z
+DTEND:20251004T160000Z
 SUMMARY:Dentistry Show London
 LOCATION:ExCeL London
 DESCRIPTION:Dentistry Show London — https://london.dentistryshow.co.uk/
 URL:https://london.dentistryshow.co.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:910d847f-e4d5-4fb8-8623-e9935aa1cad2@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251018T100000+0100
-DTEND:20251020T150000+0100
+UID:0ce8c9de-1076-4612-8436-d46743cebde1@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251018T090000Z
+DTEND:20251020T140000Z
 SUMMARY:New Scientist Live
 LOCATION:ExCeL London
 DESCRIPTION:New Scientist Live — https://live.newscientist.com/
 URL:https://live.newscientist.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:810327a2-cdc2-49d6-88b4-1befdd97ecc1@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251120T090000+0000
-DTEND:20251121T170000+0000
+UID:b8dee629-2247-4959-b63b-ba5f36ff415c@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251120T090000Z
+DTEND:20251121T170000Z
 SUMMARY:London Vet Show
 LOCATION:ExCeL London
 DESCRIPTION:London Vet Show — https://london.vetshow.com/
 URL:https://london.vetshow.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:746fec58-335c-4eb6-8a85-466087df1089@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251119T093000+0000
-DTEND:20251120T170000+0000
+UID:07f0ce3f-9cf9-402a-91fc-371c2d1f091b@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251119T093000Z
+DTEND:20251120T170000Z
 SUMMARY:London Build Expo (Construction & Engineering)
 LOCATION:Olympia London
 DESCRIPTION:London Build Expo (Construction & Engineering) — https://www.londonbuildexpo.com/
 URL:https://www.londonbuildexpo.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:5e276702-be33-46a2-a84b-7f71b3bee5ad@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251010T084500+0100
-DTEND:20251010T173000+0100
+UID:fee55c4d-82ec-4616-b7b6-0344f801f38b@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251010T074500Z
+DTEND:20251010T163000Z
 SUMMARY:ICE: Enabling Better Infrastructure (International Conference)
 LOCATION:Institution of Civil Engineers\, One Great George Street
 DESCRIPTION:ICE: Enabling Better Infrastructure (International Conference) — https://www.ice.org.uk/events/upcoming-events/enabling-better-infrastructure-international-conference
 URL:https://www.ice.org.uk/events/upcoming-events/enabling-better-infrastructure-international-conference
 END:VEVENT
 BEGIN:VEVENT
-UID:4ae28d6c-22bb-40a9-8b10-568720dab465@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251015T090000+0100
-DTEND:20251016T170000+0100
+UID:b9f1a692-6018-4cd4-9117-e8d74e9b49ce@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251015T080000Z
+DTEND:20251016T160000Z
 SUMMARY:Smart Buildings Show
 LOCATION:ExCeL London
 DESCRIPTION:Smart Buildings Show — https://smartbuildingsshow.com/
 URL:https://smartbuildingsshow.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:4b8fac74-cba3-482b-b026-cbdebba3ce24@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251008T090000+0100
-DTEND:20251010T170000+0100
+UID:52db0a27-63e7-4ef1-8985-5dab10da77f0@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251008T080000Z
+DTEND:20251010T160000Z
 SUMMARY:Forrester Technology & Innovation Summit EMEA
 LOCATION:InterContinental London – The O2 (Hybrid)
 DESCRIPTION:Forrester Technology & Innovation Summit EMEA — https://www.forrester.com/event/technology-innovation-emea/
 URL:https://www.forrester.com/event/technology-innovation-emea/
 END:VEVENT
 BEGIN:VEVENT
-UID:ce9c74ae-728c-4dd4-80ce-1e0fc4421c22@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251016T090000+0100
-DTEND:20251016T160000+0100
+UID:d0c44371-1ed8-4a71-a2ad-436995139828@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251016T080000Z
+DTEND:20251016T150000Z
 SUMMARY:East London Business Summit (Meet the Buyer)
 LOCATION:ExCeL London
 DESCRIPTION:East London Business Summit (Meet the Buyer) — https://www.eastlondonbusinesssummit.co.uk/
 URL:https://www.eastlondonbusinesssummit.co.uk/
 END:VEVENT
 BEGIN:VEVENT
-UID:7367730b-c941-4f3d-9adf-a33ffa80ee17@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251014T090000+0100
-DTEND:20251016T170000+0100
+UID:b892753f-87c5-4730-b786-c0a86878ad4a@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251014T080000Z
+DTEND:20251016T160000Z
 SUMMARY:MRO Europe (Aviation Week) — Conference & Exhibition
 LOCATION:ExCeL London
 DESCRIPTION:MRO Europe (Aviation Week) — Conference & Exhibition — https://mroeurope.aviationweek.com/en/home.html
 URL:https://mroeurope.aviationweek.com/en/home.html
 END:VEVENT
 BEGIN:VEVENT
-UID:3c42d870-d338-41c6-acbb-9fc8cd5d1379@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251030T090000+0000
-DTEND:20251030T173000+0000
+UID:886fcbc0-5490-42ee-8d0c-6e3c51182605@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251030T090000Z
+DTEND:20251030T173000Z
 SUMMARY:FuturePMO — 1-day PMO Conference
 LOCATION:Novotel London West\, Hammersmith
 DESCRIPTION:FuturePMO — 1-day PMO Conference — https://www.futurepmo.com/
 URL:https://www.futurepmo.com/
 END:VEVENT
 BEGIN:VEVENT
-UID:4833026a-92bf-48ff-af77-fb8ee00ff276@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251107T090000+0000
-DTEND:20251107T173000+0000
+UID:48dd6927-c349-44ee-b15f-ecccf66ec938@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251107T090000Z
+DTEND:20251107T173000Z
 SUMMARY:PMI UK Synergy (International Project Management Day)
 LOCATION:The Light\, Friends House\, Euston Road\, London
 DESCRIPTION:PMI UK Synergy (International Project Management Day) — https://www.pmi.org/events/london-synergy
 URL:https://www.pmi.org/events/london-synergy
 END:VEVENT
 BEGIN:VEVENT
-UID:a6fc8f8f-2b89-4337-a830-5cdaea4f345a@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251022T090000+0100
-DTEND:20251022T170000+0100
+UID:e7da5fd3-7902-4796-9255-e69d1129c033@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251022T080000Z
+DTEND:20251022T160000Z
 SUMMARY:techUK — Tech & Net Zero Conference
 LOCATION:Central London (techUK)
 DESCRIPTION:techUK — Tech & Net Zero Conference — https://www.techuk.org/what-we-deliver/events.html?location=Central+London
 URL:https://www.techuk.org/what-we-deliver/events.html?location=Central+London
 END:VEVENT
 BEGIN:VEVENT
-UID:49251b01-496e-4648-b0db-541c56e11d8f@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251105T090000+0000
-DTEND:20251105T170000+0000
+UID:6384d315-ddf8-4fcc-9923-434fea7c79ce@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251105T090000Z
+DTEND:20251105T170000Z
 SUMMARY:techUK — Health & Care Summit
 LOCATION:London (techUK)
 DESCRIPTION:techUK — Health & Care Summit — https://www.techuk.org/what-we-deliver/events.html
 URL:https://www.techuk.org/what-we-deliver/events.html
 END:VEVENT
 BEGIN:VEVENT
-UID:4e3bfc11-07ad-4daf-96a2-1e2166c62745@expoapp
-DTSTAMP:20251002T140548Z
-DTSTART:20251113T090000+0000
-DTEND:20251113T170000+0000
+UID:c78e085e-957b-4813-acde-e1e44a8e49b0@expoapp
+DTSTAMP:20251002T145900Z
+DTSTART:20251113T090000Z
+DTEND:20251113T170000Z
 SUMMARY:techUK — Tech & Innovation Summit
 LOCATION:Central London (techUK)
 DESCRIPTION:techUK — Tech & Innovation Summit — https://www.techuk.org/what-we-deliver/events.html?location=Central+London
