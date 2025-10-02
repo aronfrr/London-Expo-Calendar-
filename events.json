@@ -1,0 +1,308 @@
+[
+  {
+    "title": "HETT Show (Healthcare Excellence Through Technology)",
+    "start": "2025-10-07T09:00:00+01:00",
+    "end": "2025-10-08T17:00:00+01:00",
+    "url": "https://www.hettshow.co.uk/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Public Sector",
+      "Life Sciences"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "Sustainable Trade & Production Expo",
+    "start": "2025-10-07T09:00:00+01:00",
+    "end": "2025-10-08T17:00:00+01:00",
+    "url": "https://www.excel.london/whats-on/the-sustainable-trade-production-expo",
+    "venue": "ExCeL London",
+    "sector": [
+      "Engineering & Manufacturing",
+      "Energy"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "Cyber Security EXPO — London",
+    "start": "2025-10-23T09:00:00+01:00",
+    "end": "2025-10-23T17:00:00+01:00",
+    "url": "https://www.cybersecurityexpo.co.uk/london",
+    "venue": "QEII Centre",
+    "sector": [
+      "Defence, Cyber & Security"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "Air & Missile Defence Technology (Conference)",
+    "start": "2025-11-03T09:00:00+00:00",
+    "end": "2025-11-05T17:00:00+00:00",
+    "url": "https://www.defence-industries.com/events",
+    "venue": "Hilton London Kensington",
+    "sector": [
+      "Defence, Cyber & Security"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "EMEX — Energy Management & Smart Buildings",
+    "start": "2025-11-19T09:00:00+00:00",
+    "end": "2025-11-20T17:00:00+00:00",
+    "url": "https://www.emexlondon.com/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Energy"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "FinTech Connect",
+    "start": "2025-12-02T09:30:00+00:00",
+    "end": "2025-12-03T17:30:00+00:00",
+    "url": "https://www.fintechconnect.com/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Fintech"
+    ],
+    "exhibitors": [
+      "2i Testing",
+      "7Security",
+      "Aiven UK Ltd",
+      "allpay cards",
+      "Bank Of London",
+      "BV Apryse Software",
+      "Calcom Software",
+      "Candour Identity",
+      "Cifas",
+      "Clear Bank",
+      "Codat"
+    ]
+  },
+  {
+    "title": "Black Hat Europe",
+    "start": "2025-12-08T09:00:00+00:00",
+    "end": "2025-12-11T18:00:00+00:00",
+    "url": "https://www.blackhat.com/eu-25/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Defence, Cyber & Security"
+    ],
+    "exhibitors": [
+      "Fortra",
+      "Flare",
+      "Arctic Wolf",
+      "Contrast Security",
+      "HackerOne",
+      "Huntress",
+      "Magnet Forensics",
+      "Google",
+      "JFrog",
+      "NinjaOne",
+      "ReversingLabs"
+    ]
+  },
+  {
+    "title": "Dentistry Show London",
+    "start": "2025-10-03T09:00:00+01:00",
+    "end": "2025-10-04T17:00:00+01:00",
+    "url": "https://london.dentistryshow.co.uk/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Life Sciences"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "New Scientist Live",
+    "start": "2025-10-18T10:00:00+01:00",
+    "end": "2025-10-20T15:00:00+01:00",
+    "url": "https://live.newscientist.com/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Life Sciences",
+      "Public Sector"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "London Vet Show",
+    "start": "2025-11-20T09:00:00+00:00",
+    "end": "2025-11-21T17:00:00+00:00",
+    "url": "https://london.vetshow.com/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Life Sciences"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "London Build Expo (Construction & Engineering)",
+    "start": "2025-11-19T09:30:00+00:00",
+    "end": "2025-11-20T17:00:00+00:00",
+    "url": "https://www.londonbuildexpo.com/",
+    "venue": "Olympia London",
+    "sector": [
+      "Engineering & Manufacturing"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "DTX + UCX London",
+    "start": "2025-10-01T09:30:00+01:00",
+    "end": "2025-10-02T16:30:00+01:00",
+    "url": "https://www.excel.london/visitor/whats-on/dtx-ucx-london-2025",
+    "venue": "ExCeL London",
+    "sector": [
+      "Defence, Cyber & Security",
+      "Public Sector",
+      "Fintech",
+      "Project Management"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "APM Women in Project Management Conference",
+    "start": "2025-10-02T08:30:00+01:00",
+    "end": "2025-10-02T17:00:00+01:00",
+    "url": "https://apm.org.uk/apm-wipm-conference/",
+    "venue": "InterContinental London – The O2",
+    "sector": [
+      "Project Management"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "ICE: Enabling Better Infrastructure (International Conference)",
+    "start": "2025-10-10T08:45:00+01:00",
+    "end": "2025-10-10T17:30:00+01:00",
+    "url": "https://www.ice.org.uk/events/upcoming-events/enabling-better-infrastructure-international-conference",
+    "venue": "Institution of Civil Engineers, One Great George Street",
+    "sector": [
+      "Engineering & Manufacturing",
+      "Public Sector"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "Smart Buildings Show",
+    "start": "2025-10-15T09:00:00+01:00",
+    "end": "2025-10-16T17:00:00+01:00",
+    "url": "https://smartbuildingsshow.com/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Energy",
+      "Engineering & Manufacturing"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "Forrester Technology & Innovation Summit EMEA",
+    "start": "2025-10-08T09:00:00+01:00",
+    "end": "2025-10-10T17:00:00+01:00",
+    "url": "https://www.forrester.com/event/technology-innovation-emea/",
+    "venue": "InterContinental London – The O2 (Hybrid)",
+    "sector": [
+      "Defence, Cyber & Security",
+      "Public Sector",
+      "Fintech",
+      "Project Management"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "East London Business Summit (Meet the Buyer)",
+    "start": "2025-10-16T09:00:00+01:00",
+    "end": "2025-10-16T16:00:00+01:00",
+    "url": "https://www.eastlondonbusinesssummit.co.uk/",
+    "venue": "ExCeL London",
+    "sector": [
+      "Engineering & Manufacturing",
+      "Public Sector",
+      "Project Management"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "MRO Europe (Aviation Week) — Conference & Exhibition",
+    "start": "2025-10-14T09:00:00+01:00",
+    "end": "2025-10-16T17:00:00+01:00",
+    "url": "https://mroeurope.aviationweek.com/en/home.html",
+    "venue": "ExCeL London",
+    "sector": [
+      "Engineering & Manufacturing",
+      "Defence, Cyber & Security"
+    ],
+    "exhibitors": [
+      "AAR CORP.",
+      "Able Aerospace",
+      "ACLAS Technics",
+      "Chromalloy",
+      "Barnes Aerospace",
+      "Bucher Leichtbau",
+      "C&L Aviation Group",
+      "Belgraver Aircraft Interiors"
+    ]
+  },
+  {
+    "title": "FuturePMO — 1-day PMO Conference",
+    "start": "2025-10-30T09:00:00+00:00",
+    "end": "2025-10-30T17:30:00+00:00",
+    "url": "https://www.futurepmo.com/",
+    "venue": "Novotel London West, Hammersmith",
+    "sector": [
+      "Project Management"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "PMI UK Synergy (International Project Management Day)",
+    "start": "2025-11-07T09:00:00+00:00",
+    "end": "2025-11-07T17:30:00+00:00",
+    "url": "https://www.pmi.org/events/london-synergy",
+    "venue": "The Light, Friends House, Euston Road, London",
+    "sector": [
+      "Project Management"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "techUK — Tech & Net Zero Conference",
+    "start": "2025-10-22T09:00:00+01:00",
+    "end": "2025-10-22T17:00:00+01:00",
+    "url": "https://www.techuk.org/what-we-deliver/events.html?location=Central+London",
+    "venue": "Central London (techUK)",
+    "sector": [
+      "Energy",
+      "Public Sector",
+      "Project Management"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "techUK — Health & Care Summit",
+    "start": "2025-11-05T09:00:00+00:00",
+    "end": "2025-11-05T17:00:00+00:00",
+    "url": "https://www.techuk.org/what-we-deliver/events.html",
+    "venue": "London (techUK)",
+    "sector": [
+      "Public Sector",
+      "Life Sciences"
+    ],
+    "exhibitors": []
+  },
+  {
+    "title": "techUK — Tech & Innovation Summit",
+    "start": "2025-11-13T09:00:00+00:00",
+    "end": "2025-11-13T17:00:00+00:00",
+    "url": "https://www.techuk.org/what-we-deliver/events.html?location=Central+London",
+    "venue": "Central London (techUK)",
+    "sector": [
+      "Defence, Cyber & Security",
+      "Fintech",
+      "Public Sector",
+      "Project Management"
+    ],
+    "exhibitors": []
+  }
+]
