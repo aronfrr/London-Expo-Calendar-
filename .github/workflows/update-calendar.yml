@@ -1,0 +1,35 @@
+name: Refresh calendar (3-month window)
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"   # 08:00 Europe/London ≈ 07:00 UTC outside BST
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build outputs (index.html + London_Expos.ics)
+        run: |
+          python scripts/build_outputs.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add -A
+          git commit -m "Auto-refresh calendar" || echo "No changes to commit"
+
+      - name: Push
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
